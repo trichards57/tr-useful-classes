@@ -1,5 +1,0 @@
-C:\Users\Tony\Documents\Visual Studio 2010\Projects\UsefulClasses\UsefulClasses\bin\Release\UsefulClasses.dll
-C:\Users\Tony\Documents\Visual Studio 2010\Projects\UsefulClasses\UsefulClasses\bin\Release\UsefulClasses.pdb
-C:\Users\Tony\Documents\Visual Studio 2010\Projects\UsefulClasses\UsefulClasses\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Tony\Documents\Visual Studio 2010\Projects\UsefulClasses\UsefulClasses\obj\Release\UsefulClasses.dll
-C:\Users\Tony\Documents\Visual Studio 2010\Projects\UsefulClasses\UsefulClasses\obj\Release\UsefulClasses.pdb
