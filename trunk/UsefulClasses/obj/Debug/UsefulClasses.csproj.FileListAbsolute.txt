@@ -1,5 +1,0 @@
-c:\users\tony\documents\visual studio 2010\Projects\UsefulClasses\UsefulClasses\bin\Debug\UsefulClasses.dll
-c:\users\tony\documents\visual studio 2010\Projects\UsefulClasses\UsefulClasses\bin\Debug\UsefulClasses.pdb
-c:\users\tony\documents\visual studio 2010\Projects\UsefulClasses\UsefulClasses\obj\Debug\ResolveAssemblyReference.cache
-c:\users\tony\documents\visual studio 2010\Projects\UsefulClasses\UsefulClasses\obj\Debug\UsefulClasses.dll
-c:\users\tony\documents\visual studio 2010\Projects\UsefulClasses\UsefulClasses\obj\Debug\UsefulClasses.pdb
